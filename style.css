@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    position: relative;
+    padding-top: 2rem;
+    width: 100%;
+    background-color: cadetblue;
+}
+header{
+    background-color: aquamarine;
+    width: 90%;
+    margin-left: 5%;
+    padding-top: 2rem;
+    height: 10rem;
+}
+nav{
+    width: 90%;
+    background-color: antiquewhite;
+    margin-left: 5%;
+    height: 4rem;
+}
+main{
+    background-color:aquamarine ;
+    width: 90%;
+    height: 12rem;
+    margin-left: 5%;
+}
